@@ -12,5 +12,4 @@ sequenceDiagram
     deactivate server
 
     Note right of browser: The user can see his note being created successfully
-  
 ```
